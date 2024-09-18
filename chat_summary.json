@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a hover effect to buttons\", \"checked\": true}, {\"feature\": \"Implement a sticky navigation menu\", \"checked\": false}, {\"feature\": \"Include a testimonial slider\", \"checked\": false}, {\"feature\": \"Create a section for featured products\", \"checked\": true}, {\"feature\": \"Add an FAQ section\", \"checked\": false}], \"input_token_count\": 252, \"output_token_count\": 86, \"time_taken\": \"0:00:01.745002\"}",
+        "timestamp": "18092024212221",
+        "message_id": "guest18092024212210"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors do you want for the gradient effect on the 'premium supplies' text?\", \"option1\": \"From light blue to dark blue\", \"option2\": \"From red to yellow\"}, {\"question 2\": \"Do you prefer a vertical or horizontal gradient for the text?\", \"option1\": \"Vertical gradient\", \"option2\": \"Horizontal gradient\"}], \"input_token_count\": 298, \"output_token_count\": 88, \"time_taken\": \"0:00:02.043652\"}",
         "timestamp": "18092024212217",
