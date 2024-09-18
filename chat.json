@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific colors do you want for the gradient effect on the 'premium supplies' text?\", \"option1\": \"From light blue to dark blue\", \"option2\": \"From red to yellow\"}, {\"question 2\": \"Do you prefer a vertical or horizontal gradient for the text?\", \"option1\": \"Vertical gradient\", \"option2\": \"Horizontal gradient\"}], \"input_token_count\": 298, \"output_token_count\": 88, \"time_taken\": \"0:00:02.043652\"}",
+        "message_id": "guest18092024212210",
+        "timestamp": "18092024212217",
+        "component_file_name": "simple_hero_component_1726595000",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Make the 'premium supplies' text have a gradient effect",
         "message_id": "guest18092024212210",
