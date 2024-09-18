@@ -24,7 +24,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   href="index.html"
                   aria-label="© 2023 Office Supplies Co. All rights reserved."
                 >
-                  <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
+                  <img src="http://127.0.0.1:8000/get_image/Office_Supplies_Marketplace_1726594997/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-white">
