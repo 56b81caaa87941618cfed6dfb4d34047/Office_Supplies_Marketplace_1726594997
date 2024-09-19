@@ -48,5 +48,6 @@ export default {
             alert("Button pressed!");
         },
         // End of Alert method
+    }
 };
 </script>
