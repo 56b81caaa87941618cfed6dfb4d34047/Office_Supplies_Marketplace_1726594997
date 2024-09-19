@@ -36,20 +36,23 @@ INSTRUCTION: - To the right: There is an image relevant to the app.
 </template>
 
 <script>
+import { ref } from 'vue'
+
 export default {
     name: "SimpleHeroComponent",
-    data() {
+    setup() {
+        const expanded = ref(false)
+        const tab = ref(null)
+
+        const showAlert = () => {
+            alert("Button pressed!")
+        }
+
         return {
-            expanded: false,
-            tab: null
-        };
-    },
-    methods: {
-        // Alert method
-        showAlert() {
-            alert("Button pressed!");
-        },
-        // End of Alert method
+            expanded,
+            tab,
+            showAlert
+        }
     }
-};
+}
 </script>
