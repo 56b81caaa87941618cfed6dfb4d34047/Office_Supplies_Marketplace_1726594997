@@ -4,7 +4,7 @@ INSTRUCTION: - To the left: There is a hero title text in h1 heading. Underneath
 INSTRUCTION: - To the right: There is an image relevant to the app.
 -->
 
-<templae>
+<template>
     <div>
         <section id="hero-section" class="bg-white dark:bg-gray-900 flex-1" style="min-height: 230px;">
             <div id="hero-container" data-mf-new="true" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28" style="">
