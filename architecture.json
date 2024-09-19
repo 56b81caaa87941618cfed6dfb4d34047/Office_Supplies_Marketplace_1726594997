@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Please add a button that alerts in the browser when pressed\nUser: Make the 'premium supplies' text have a gradient effect\nAI: Sure, I will apply a gradient effect to the 'premium supplies' text.\n\nThis is the user's current request of changes to be made:\nPlease add a button that alerts in the browser when pressed"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: Add the white background back\nAI: Sure, I'll add a button that alerts in the browser.\nUser: Please add a button that alerts in the browser when pressed\nUser: Make the 'premium supplies' text have a gradient effect\nAI: Sure, I will apply a gradient effect to the 'premium supplies' text.\n\nThis is the user's current request of changes to be made:\nAdd the white background back"
     }
 ]
