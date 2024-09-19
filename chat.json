@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What label or text would you like to have on the button?\", \"option1\": \"Click me\", \"option2\": \"Alert Button\"}, {\"question 2\": \"Would you like the button to be a specific color or style?\", \"option1\": \"Yes, I have a specific color in mind\", \"option2\": \"No, use a default style\"}], \"input_token_count\": 330, \"output_token_count\": 89, \"time_taken\": \"0:00:01.521992\"}",
+        "message_id": "guest19092024123948",
+        "timestamp": "19092024123959",
+        "component_file_name": "simple_hero_component_1726595000",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button that alerts in the browser.",
         "message_id": "guest19092024123948",
