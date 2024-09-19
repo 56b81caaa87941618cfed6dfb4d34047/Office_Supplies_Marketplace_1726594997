@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific sections of the website do you want the white background to be applied to?\", \"option1\": \"All sections\", \"option2\": \"Only specific sections like header or footer\"}, {\"question 2\": \"Would you like the white background to have any particular shade or opacity?\", \"option1\": \"Pure white\", \"option2\": \"A slightly off-white shade\"}], \"input_token_count\": 355, \"output_token_count\": 91, \"time_taken\": \"0:00:03.788242\"}",
+        "message_id": "guest19092024230157",
+        "timestamp": "19092024230206",
+        "component_file_name": "simple_hero_component_1726595000",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add the white background back for you.",
         "message_id": "guest19092024230157",
