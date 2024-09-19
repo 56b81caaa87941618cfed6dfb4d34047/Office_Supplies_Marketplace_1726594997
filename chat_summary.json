@@ -1,5 +1,29 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a white background to the entire website\", \"checked\": true}, {\"feature\": \"Include a color picker for users to choose their background color\", \"checked\": false}, {\"feature\": \"Add a button that alerts when pressed\", \"checked\": true}, {\"feature\": \"Implement a toggle switch for users to switch between light and dark mode\", \"checked\": false}, {\"feature\": \"Apply a gradient effect on specific text elements\", \"checked\": true}, {\"feature\": \"Allow users to save their preferred theme settings\", \"checked\": false}], \"input_token_count\": 309, \"output_token_count\": 128, \"time_taken\": \"0:00:05.170587\"}",
+        "message_id": "guest19092024230157",
+        "timestamp": "19092024230213",
+        "component_file_name": "simple_hero_component_1726595000",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In this conversation, the user requested the AI to apply a gradient effect to the 'premium supplies' text. The AI acknowledged this request, confirming that it would implement the effect. Additionally, the AI inquired if the user could provide more details about the project, demonstrating its willingness to assist further.",
+        "timestamp": "19092024230213",
+        "message_id": "guest19092024230157"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific sections of the website do you want the white background to be applied to?\", \"option1\": \"All sections\", \"option2\": \"Only specific sections like header or footer\"}, {\"question 2\": \"Would you like the white background to have any particular shade or opacity?\", \"option1\": \"Pure white\", \"option2\": \"A slightly off-white shade\"}], \"input_token_count\": 355, \"output_token_count\": 91, \"time_taken\": \"0:00:03.788242\"}",
+        "message_id": "guest19092024230157",
+        "timestamp": "19092024230206",
+        "component_file_name": "simple_hero_component_1726595000",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add the white background back for you.",
         "message_id": "guest19092024230157",
@@ -7,12 +31,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "19092024230159",
-        "message_id": "guest19092024230157"
     },
     {
         "role": "user",
@@ -74,24 +92,6 @@
         "message_id": "guest18092024212210",
         "timestamp": "18092024212217",
         "component_file_name": "simple_hero_component_1726595000",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Make the 'premium supplies' text have a gradient effect",
-        "message_id": "guest18092024212210",
-        "timestamp": "18092024212211",
-        "component_file_name": "simple_hero_component_1726595000",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I will apply a gradient effect to the 'premium supplies' text.",
-        "message_id": "guest18092024212210",
-        "timestamp": "18092024212211",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
