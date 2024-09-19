@@ -47,7 +47,7 @@ export default {
     methods: {
         // Alert method
         showAlert() {
-            art("Button pressed!");
+            alert("Button pressed!");
         },
         // End of Alert method
     }
